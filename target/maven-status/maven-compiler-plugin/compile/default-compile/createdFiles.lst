@@ -1,1 +1,13 @@
-br\com\alura\jose\data\App.class
+br\com\alura\jose\data\dao\CategoriaDAO.class
+br\com\alura\jose\data\view\ProdutoCategoriaFrame$2.class
+br\com\alura\jose\data\view\ProdutoCategoriaFrame$3.class
+br\com\alura\jose\data\modelo\Produto.class
+br\com\alura\jose\data\view\ProdutoCategoriaFrame.class
+br\com\alura\jose\data\modelo\Categoria.class
+br\com\alura\jose\data\view\ProdutoCategoriaFrame$1.class
+br\com\alura\jose\data\controller\ProdutoController.class
+br\com\alura\jose\data\controller\CategoriaController.class
+br\com\alura\jose\data\dao\ProdutoDAO.class
+br\com\alura\jose\data\view\ProdutoCategoriaFrame$4.class
+br\com\alura\jose\data\TestaOperacaoComView.class
+br\com\alura\jose\data\factory\ConnectionFactory.class
